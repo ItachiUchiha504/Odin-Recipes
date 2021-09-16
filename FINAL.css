@@ -1,0 +1,110 @@
+body {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+}
+
+.ALLTOP {
+    background-color: #1F2937;
+}
+
+.IMG1 {
+    width: 400px;
+    height: auto;
+}
+
+.IMG2 {
+    width: 100px;
+    height: 100px;
+}
+
+.Header {
+    background-color: #1F2937 ;
+    display: flex;
+    justify-content: space-around;
+}
+
+.LOGO {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+li {
+    font: 18px;
+    color: #E5E7EB;
+
+}
+
+.Top-Website {
+    background-color: #1F2937 ;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 80px;
+    padding: 0 0 50px 0;
+    
+}
+
+.Left-Side {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+
+.Right-Side {
+    display: flex;
+
+}
+
+.H1 {
+    font-size: 48px;
+    color:#F9FAF8 ;
+    width: 300px;
+}
+
+.Secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+    width: 250px;
+}
+
+.Signupbutton {
+    background-color: #3882f6;
+    border: none ;
+    color:white;
+    padding: 7px 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.MiddlePt1 {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.Images {
+    display: flex;
+    gap: 20px;
+}
